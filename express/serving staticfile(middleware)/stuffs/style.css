@@ -1,0 +1,19 @@
+body{
+     background-color: gray;
+     font-family: sans-serif;
+     padding: 20px;
+   }
+
+   h1, h2{
+     font-size: 40px;
+     text-transform: uppercase;
+     letter-spacing: 2px;
+     text-align: center;
+
+   }
+
+   p, li{
+     font-size: 20px;
+     text-align: left;
+     color: red;
+   }
